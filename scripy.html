@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> MY FIRST WEBSITE</title>
+</head>
+<body>
+<p>this is a paragraph</p>
+<p id = "par2">this is paragraph 2</p>
+<input type= "text" id = "userInput">
+<button onclick = " myFunc('userInput')">click me</button>
+<script>
+function myFunc(inputId){
+
+var textvalue = document.getElementById(inputId).value;              
+ 			document.getElementById("par2").innerHTML =textvalue;
+	}
+
+</script>
+</body>
+</html>

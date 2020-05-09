@@ -1,0 +1,62 @@
+/* selector{
+	property  : value;
+}
+*/
+body{
+	background-color : white;
+	background-size: 100%;
+	background-position: left.bottom;
+
+}
+h2{
+	color: black;
+	text-align: left
+	background-color yellow;
+}
+h1{
+	color: black;
+	text-align: center;
+}
+h3{
+	color: red;
+	text-align: center;
+	font-size : 16px;
+	border: 9px solid yellow;
+	opacity: 0.6;
+	padding: 30px;
+  }
+button {
+	text-align: center;
+}
+a{
+
+	text-orientation: left;
+	padding-left: 30px;
+	font-size: 23px;
+}
+
+h6
+{
+	text-align: center;
+	
+}
+nav {
+	background-color :yellow;
+	opacity: 0.8;
+
+}
+h5{
+	text-align: right;
+	font-size: 23px;
+}
+p{
+	font-size: 20px;
+}
+h4{
+	text-align: center;
+	font-size: 15px;
+	background-color: yellow;
+	opacity: 0.8;
+border: 9px solid yellow
+
+}
